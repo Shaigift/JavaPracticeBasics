@@ -1,0 +1,2 @@
+module JavaProblemsw3resources {
+}
